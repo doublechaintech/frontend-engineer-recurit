@@ -3,8 +3,10 @@
 因为业务发展需要，双链科技正在招聘工程师。但每天收到大量内容非常相似的简历，简历筛选让我们头痛不已，而软件工程师还是要靠代码说话的，所以不如看代码直接一些。
 
 
-请完成下列函数，从一个List中取得最大number值,：
+请完成下列函数，从一个List中取得最大number值,
+
 Typescript:
+
 ```typescript
 
 let getMaxValue=function(listValues: Array<any>):number{
