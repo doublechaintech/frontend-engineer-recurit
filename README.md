@@ -3,19 +3,29 @@
 因为业务发展需要，双链科技正在招聘工程师。但每天收到大量内容非常相似的简历，简历筛选让我们头痛不已，而软件工程师还是要靠代码说话的，所以不如看代码直接一些。
 
 
-请完成下列函数，从一个List中取得最大整型值：
+请完成下列函数，从一个List中取得最大number值,：
+Typescript:
+```typescript
 
-```javascript
-
-pulic static Integer getMaxValue(List valueList){
-    return  null;
+let getMaxValue=function(listValues: Array<any>):number{
+    
 }
 
+export getMaxValue;
 ```
+
+Javascript
+```
+const getMaxValue=(valueList)=>{
+
+}
+export getMaxValue;
+```
+
 
 ## 要求：
 
-* Java 8可编译通过并运行
+* 使用typescript或者javascript来编写
 * 把您这样做的原因写下来
 * **严谨**! **严谨**! **严谨**! 设想这段代码需要在航天器上运行
 
