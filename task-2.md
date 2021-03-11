@@ -24,4 +24,4 @@
 ### 结果提交
 *  请使用邮件提交结果，邮件标题格式如下：  渠道-前端工程师-姓名，渠道可以写公司，也可以写个人
 *  任务2，附上my-home-page.tsx，my-home-page.scss和**运行截图**，**不要**发送链接
-*  邮件发送到liliu#doublechaintech.com; zhangxilai#doublechaintech.com
+*  邮件发送到liuli#doublechaintech.com; zhangxilai#doublechaintech.com
