@@ -29,7 +29,11 @@ export getMaxValue;
 ## 任务2：实现一个小程序页面，完成UI以及数据交互
 
 ### 要求：
-* 使用规定脚手架，按照UI设计稿，完成页面，并在页面加载时与后台数据交互。
+* 使用规定脚手架，按照下图完成页面，并在页面加载时与后台数据交互。
+<div>
+    <img width='313px' height='785px' src='https://nice-router.oss-cn-chengdu.aliyuncs.com/quiz/design.png'/>
+    <span style='margin-right:20px'>设计稿</span>
+</div>
 
 ### 提示：
 *  前置技术要求：熟悉React
