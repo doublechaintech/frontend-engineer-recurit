@@ -30,10 +30,8 @@ export getMaxValue;
 
 ### 要求：
 * 使用规定脚手架，按照下图完成页面，并在页面加载时与后台数据交互。
-<div>
-    <img width='313px' height='785px' src='https://nice-router.oss-cn-chengdu.aliyuncs.com/quiz/design.png'/>
-    <span style='margin-right:20px'>设计稿</span>
-</div>
+
+<img width='313px' height='785px' src='https://nice-router.oss-cn-chengdu.aliyuncs.com/quiz/design.png'/>
 
 ### 提示：
 *  前置技术要求：熟悉React
@@ -48,4 +46,4 @@ export getMaxValue;
 *  请使用邮件提交结果，邮件标题格式如下：  渠道-前端工程师-姓名，渠道可以写公司，也可以写个人
 *  任务1，函数实现直接写到邮件正文中，**并提供您这么做的理由**。
 *  任务2，附上my-home-page.tsx，my-home-page.scss和**运行截图**，**不要**发送链接
-*  邮件发送到li.liu#doublechaintech.com; zhangxilai#doublechaintech.com
+*  邮件发送到liliu#doublechaintech.com; zhangxilai#doublechaintech.com
