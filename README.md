@@ -27,4 +27,4 @@ export getMaxValue;
 ### 结果提交
 *  请使用邮件提交结果，邮件标题格式如下：  渠道-前端工程师-姓名，渠道可以写公司，也可以写个人
 *  任务1，函数实现直接写到邮件正文中，**并提供您这么做的理由**。
-*  邮件发送到liliu#doublechaintech.com; zhangxilai#doublechaintech.com
+*  邮件发送到liuli#doublechaintech.com; zhangxilai#doublechaintech.com
