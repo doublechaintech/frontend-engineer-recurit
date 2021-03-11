@@ -1,4 +1,4 @@
-# 双链科技javascript/typescript前台工程师招聘  任务2
+# 双链科技javascript/typescript前台工程师招聘
 
 
 ## 任务2：实现一个小程序页面，完成UI以及数据交互
