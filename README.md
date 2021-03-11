@@ -39,8 +39,9 @@ export getMaxValue;
 *  步骤2. 新建页面文件
     src/pages/my-home/my-home-page.tsx
     src/pages/my-home/my-home-page.scss
+*  步骤3. 根据接口和UI完成页面。
+*  接口地址：https://nice-router.oss-cn-chengdu.aliyuncs.com/quiz/home-data.json
 *  这个任务中，涉及到小程序开发者工具第三方小程序开发框架taro，如果你没接触过，可能需要一些快速学习：http://taro-docs.jd.com/
-  
 
 ### 结果提交
 *  请使用邮件提交结果，邮件标题格式如下：  渠道-前端工程师-姓名，渠道可以写公司，也可以写个人
