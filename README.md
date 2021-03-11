@@ -37,8 +37,11 @@ export getMaxValue;
 *  前置技术要求：熟悉React
 *  步骤1. clone 框架代码，并运行脚手架： https://github.com/kala888/nice-router-taro
 *  步骤2. 新建页面文件
+
     src/pages/my-home/my-home-page.tsx
+    
     src/pages/my-home/my-home-page.scss
+    
 *  步骤3. 根据接口和UI完成页面。
 *  接口地址：https://nice-router.oss-cn-chengdu.aliyuncs.com/quiz/home-data.json
 *  这个任务中，涉及到小程序开发者工具第三方小程序开发框架taro，如果你没接触过，可能需要一些快速学习：http://taro-docs.jd.com/
