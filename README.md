@@ -31,7 +31,7 @@ export getMaxValue;
 ### 要求：
 * 使用规定脚手架，按照下图完成页面，并在页面加载时与后台数据交互。
 
-<img width='313px' height='785px' src='https://nice-router.oss-cn-chengdu.aliyuncs.com/quiz/design.png'/>
+<img width='104px' height='282px' src='https://nice-router.oss-cn-chengdu.aliyuncs.com/quiz/design.png'/>
 
 ### 提示：
 *  前置技术要求：熟悉React
