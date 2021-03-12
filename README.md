@@ -5,7 +5,7 @@
 ## 任务1：请完成下列函数，从一个List中取得最大number值,
 
 ```Javascript
-const getMaxValue=(valueList)=>{
+const getMaxValue = ( valueList ) => {
 
 }
 export getMaxValue;
